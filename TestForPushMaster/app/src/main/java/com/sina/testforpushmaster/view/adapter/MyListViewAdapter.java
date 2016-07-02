@@ -13,6 +13,8 @@ import java.util.List;
 
 /**
  * Created by Wuzp on 2016/7/1.
+ * this is test change,just do no meanful change,so enjoy it.
+ * thanks for git.
  */
 public class MyListViewAdapter extends BaseAdapter {
     private static final String TAG = MyListViewAdapter.class.getSimpleName();
